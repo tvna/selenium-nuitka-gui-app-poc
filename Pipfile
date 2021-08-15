@@ -1,0 +1,17 @@
+[[source]]
+url = "https://pypi.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[packages]
+webdriver-manager = "==3.4.2"
+selenium = "==3.141.0"
+nuitka = "==0.6.16.3"
+pysimplegui = "==4.46.0"
+zstandard = "*"
+beautifulsoup4 = "==4.9.3"
+
+[dev-packages]
+
+[requires]
+python_version = "3.9"
